@@ -1,0 +1,1 @@
+Practical applications of multiplexer AND DECODER AND DEMULTIPLEXER
